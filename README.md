@@ -11,6 +11,11 @@ or shaky movements as a single command. Because the movements do not require for
 can also be used to simulate button presses for those who otherwise lack the arm strength to activate 
 buttons which require pressure.
 
+
+
+![alt text](https://github.com/WesleyDMartin/4x4/blob/master/GestureInterpreter.jpg "Posterboard")
+
+
 # Moving Forward
 Moving forward, there are two areas of research and improvement that would be required before this 
 project would be testable in a real world situation. The first is the interaction between the
