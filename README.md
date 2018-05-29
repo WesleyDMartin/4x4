@@ -1,7 +1,7 @@
-#### 4x4 Spastic Motion Interpret
-### Conestoga College 4x4 - 2017
+# 4x4 Spastic Motion Interpret
+## Conestoga College 4x4 - 2017
 
-## Wesley Martin, Ricardo Mohammed, Felipe Flor, Kalvin Stares
+#### Wesley Martin, Ricardo Mohammed, Felipe Flor, Kalvin Stares
 
 #Summary
 This project will allow people with minimal or zero fine motor control interact with devices 
@@ -14,7 +14,7 @@ buttons which require pressure.
 #Moving Forward
 Moving forward, there are two areas of research and improvement that would be required before this 
 project would be testable in a real world situation. The first is the interaction between the
-reader program operating on the host device and any API’s on that device that would be required 
+reader program operating on the host device and any APIâ€™s on that device that would be required 
 to translate input commands to generic control functions. For example, translating the swipe right 
 or swipe left to a forward or backward in a PowerPoint presentation. To make this project fully 
 unctional, we would also need to alter the program to operate at a much faster sample rate, and 
