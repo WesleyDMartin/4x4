@@ -3,7 +3,7 @@
 
 #### Wesley Martin, Ricardo Mohammed, Felipe Flor, Kalvin Stares
 
-#Summary
+# Summary
 This project will allow people with minimal or zero fine motor control interact with devices 
 that would ordinarily require more controlled hand or arm gestures. By simulating motions such
 as swipe right, swipe left, push down, or pull up, the program can interpret very inconsistent 
@@ -11,7 +11,7 @@ or shaky movements as a single command. Because the movements do not require for
 can also be used to simulate button presses for those who otherwise lack the arm strength to activate 
 buttons which require pressure.
 
-#Moving Forward
+# Moving Forward
 Moving forward, there are two areas of research and improvement that would be required before this 
 project would be testable in a real world situation. The first is the interaction between the
 reader program operating on the host device and any API’s on that device that would be required 
